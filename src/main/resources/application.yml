@@ -1,0 +1,4 @@
+spring.application.name: SplinterCell3000_PRV
+server:
+  port: 9000
+
