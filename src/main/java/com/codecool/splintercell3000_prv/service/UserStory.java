@@ -1,4 +1,4 @@
-package com.codecool.splintercell3000_prv;
+package com.codecool.splintercell3000_prv.service;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
